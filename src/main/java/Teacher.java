@@ -24,4 +24,7 @@ public class Teacher {
     public void sayHello(){
         System.out.println("hello----------");
     }
+    public void zaijian(){
+        System.out.println("再见----------");
+    }
 }
