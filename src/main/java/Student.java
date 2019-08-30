@@ -21,7 +21,7 @@ public class Student {
 
     public void setPassword(String password) {
         this.password = password;
-        System.out.println("打印密码");
+
         System.out.println("再次打印密码");
     }
 }
