@@ -15,6 +15,7 @@ public class Student {
     }
 
     public String getPassword() {
+        System.out.println("获得密码");
         return password;
     }
 
