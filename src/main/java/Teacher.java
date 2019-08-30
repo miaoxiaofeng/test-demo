@@ -21,4 +21,7 @@ public class Teacher {
     public void setPassword(String password) {
         this.password = password;
     }
+    public void sayHello(){
+        System.out.println("hello----------");
+    }
 }
