@@ -20,5 +20,6 @@ public class Student {
 
     public void setPassword(String password) {
         this.password = password;
+        System.out.println("da ying mi ma");
     }
 }
