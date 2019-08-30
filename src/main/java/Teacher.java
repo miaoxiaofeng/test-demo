@@ -24,4 +24,7 @@ public class Teacher {
     public void sayHello(){
         System.out.println("hello----------");
     }
+    public void sayGoodBye(){
+        System.out.println("bye-----------------");
+    }
 }
